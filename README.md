@@ -88,5 +88,5 @@ All data from [Platzi Fake Store API](https://api.escuelajs.co/api/v1):
 | `POST /auth/login` | Login → returns access token |
 | `POST /users` | Register new user |
 | `GET /products` | Fetch all products |
-| `GET /categories/{id}` | Filter by category |
+| `GET /categories/{id}/products` | Filter by category |
 | `GET /categories` | Fetch all categories |
