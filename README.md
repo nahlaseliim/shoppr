@@ -4,11 +4,11 @@ A Flutter e-commerce app built with Provider as state management.
 Uses the [Platzi Fake Store API](https://api.escuelajs.co/api/v1) for products and authentication.
 
 ## Screenshots
-<img width="1080" height="2340" alt="Screenshot1" src="https://github.com/user-attachments/assets/d97bae44-90e2-40a6-bf67-77a625e71d64" />
-<img width="720" height="1560" alt="screenshot2" src="https://github.com/user-attachments/assets/a6bb2863-5d21-470a-b06f-bfc99c644773" />
-<img width="1080" height="2340" alt="Screenshot3" src="https://github.com/user-attachments/assets/367ebf2f-666a-452c-94b6-47b116487c99" />
-<img width="1080" height="2340" alt="Screenshot4" src="https://github.com/user-attachments/assets/3a0072a3-827a-4d35-a744-81e99bc6289c" />
-<img width="1080" height="2340" alt="Screenshot5" src="https://github.com/user-attachments/assets/97237b02-8c02-4591-8930-fbaf6645f49c" />
+<img width="280" alt="Screenshot1" src="https://github.com/user-attachments/assets/d97bae44-90e2-40a6-bf67-77a625e71d64" />
+<img width="280" alt="screenshot2" src="https://github.com/user-attachments/assets/a6bb2863-5d21-470a-b06f-bfc99c644773" />
+<img width="280" height="2340" alt="Screenshot3" src="https://github.com/user-attachments/assets/367ebf2f-666a-452c-94b6-47b116487c99" />
+<img width="280" height="2340" alt="Screenshot4" src="https://github.com/user-attachments/assets/3a0072a3-827a-4d35-a744-81e99bc6289c" />
+<img width="280" height="2340" alt="Screenshot5" src="https://github.com/user-attachments/assets/97237b02-8c02-4591-8930-fbaf6645f49c" />
 
 
 ## Features
