@@ -48,7 +48,7 @@ flutter pub get
 flutter run
 ```
 
-**Demo account:** `nahla@gmail.com` / `nahla123`
+**Demo account:** `john@mail.com` / `changeme`
 
 > Note: `device_preview` is only active in debug mode. It's automatically disabled in release builds.
 
